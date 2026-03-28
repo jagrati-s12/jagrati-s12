@@ -66,34 +66,6 @@
 
 ---
 
-## 🚀 Projects  
-
-### 🛒 E-Commerce Web Application  
-- Built using **React, JavaScript, HTML, CSS**  
-- Features: Product listing, cart system, filtering  
-
----
-
-### 🌱 Smart Sustainable Community Platform  
-- Built during **Ignithon 2025 Hackathon**  
-- Focus on eco-friendly smart living  
-
----
-
-### 🏢 KIIT Saathi  
-- Operations & event management  
-- Campus engagement initiatives  
-
----
-
-## 🏆 Achievements  
-
-- 🏅 Ignithon 2025 Hackathon participant  
-- ⚽ Managed campus football event  
-- 📊 Active on Kaggle  
-
----
-
 ## ⚡ Fun Fact  
 
 💡 *I love building things with code and exploring new technologies!*  
