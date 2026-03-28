@@ -51,6 +51,11 @@
 
 ---
 
-## ⚡ Fun Fact  
+## 📈 Contribution Graph  
 
-💡 *I love building things with code and exploring new technologies!*  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrati-s12&theme=tokyo-night"/>
+</p>
+
+
+ 🧙‍♀️ *I love coding and bringing ideas from my imagination to life through technology.*  
