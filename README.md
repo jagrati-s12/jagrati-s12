@@ -51,21 +51,6 @@
 
 ---
 
-## 💻 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrati-s12&layout=compact&theme=radical&cache_seconds=86400&v=1"/>
-</p>
----
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-
 ## ⚡ Fun Fact  
 
 💡 *I love building things with code and exploring new technologies!*  
