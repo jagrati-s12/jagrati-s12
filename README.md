@@ -1,8 +1,9 @@
-# 💫 Hi 👋, I'm Jagrati Sharma  
-### 🚀 Aspiring Software Developer | CSE Student @ KIIT  
+<h1 align="center">Hi 👋, I'm Jagrati Sharma</h1>
+<h3 align="center">🚀 Aspiring Software Developer | CSE @ KIIT</h3>
 
-📧 **Email:** sjagrati822@gmail.com  
-📱 **Phone:** +91 9391945428  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Web+Developer;AI%2FML+Enthusiast;Problem+Solver&center=true&width=500&height=45">
+</p>
 
 ---
 
@@ -13,37 +14,38 @@
 - 💡 Passionate about **Software Development & Problem Solving**  
 - 🤖 Exploring **AI/ML + Web Development**  
 - 🏆 Hackathon participant (Ignithon 2025)  
-- 🚀 Member of **KIIT Saathi (Student Startup)**  
+- 🚀 Member of **KIIT Saathi (Startup)**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagrati-sharma-6a2b5a2ab">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:sjagrati822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/jagrati-s12">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack  
 
-### 👨‍💻 Programming Languages  
-`Java` | `Python` | `JavaScript`  
-
-### 🌐 Web Development  
-`HTML` | `CSS` | `React`  
-
-### 🗄️ Databases  
-`MySQL` | `Oracle SQL`  
-
-### 🤖 AI / ML  
-- Machine Learning Basics  
-- Supervised & Unsupervised Learning  
-- Classification, Regression, Clustering  
-- NumPy, Pandas, Scikit-learn  
-- Prompt Engineering & LLM Basics  
-
-### 🛠 Tools  
-`Git` | `VS Code` | `IntelliJ IDEA` | `Kaggle`  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,vscode,intellij" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jagrati-s12&show_icons=true&theme=radical" height="180"/>
   <img src="https://streak-stats.demolab.com?user=jagrati-s12&theme=radical" height="180"/>
 </p>
 
@@ -52,7 +54,15 @@
 ## 💻 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrati-s12&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrati-s12&layout=compact&theme=radical&cache_seconds=1800"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jagrati-s12/jagrati-s12/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -62,38 +72,26 @@
 ### 🛒 E-Commerce Web Application  
 - Built using **React, JavaScript, HTML, CSS**  
 - Features: Product listing, cart system, filtering  
-- Responsive UI with reusable components  
 
 ---
 
 ### 🌱 Smart Sustainable Community Platform  
-*(Ignithon 2025 Hackathon)*  
-- Promotes eco-friendly urban living (SDG 11)  
-- Features: resource sharing, recycling updates  
-- Includes EV & green transport ideas  
+- Built during **Ignithon 2025 Hackathon**  
+- Focus on eco-friendly smart living  
 
 ---
 
-### 🏢 KIIT Saathi (Startup Contribution)  
-- Worked in **operations team**  
-- Managed campus event logistics  
-- Contributed to student engagement initiatives  
+### 🏢 KIIT Saathi  
+- Operations & event management  
+- Campus engagement initiatives  
 
 ---
 
-## 🏆 Achievements & Activities  
+## 🏆 Achievements  
 
-- 🏅 Participated in **Ignithon 2025 Hackathon**  
-- ⚽ Managed campus football event operations  
-- 📊 Active on **Kaggle (ML practice)**  
-
----
-
-## 🤝 Let's Connect  
-
-- 💼 LinkedIn: *Add your link*  
-- 💻 GitHub: *Add your link*  
-- 🧠 LeetCode: *Add your link*  
+- 🏅 Ignithon 2025 Hackathon participant  
+- ⚽ Managed campus football event  
+- 📊 Active on Kaggle  
 
 ---
 
