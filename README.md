@@ -57,14 +57,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrati-s12&layout=compact&theme=radical&cache_seconds=86400&v=1"/>
 </p>
 ---
+<!-- Snake Game Repo View -->
 
-## 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jagrati-s12/jagrati-s12/output/github-contribution-grid-snake.svg">
-</p>
 
----
+
 
 ## ⚡ Fun Fact  
 
