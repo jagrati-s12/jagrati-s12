@@ -58,4 +58,12 @@
 </p>
 
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jagrati-s12/jagrati-s12/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+
  🧙‍♀️ *I love coding and bringing ideas from my imagination to life through technology.*  
