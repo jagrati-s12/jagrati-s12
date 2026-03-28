@@ -14,7 +14,7 @@
 - 💡 Passionate about **Software Development & Problem Solving**  
 - 🤖 Exploring **AI/ML + Web Development**  
 - 🏆 Hackathon participant (Ignithon 2025)  
-- 🚀 Member of **KIIT Saathi (Startup)**  
+ 
 
 ---
 
