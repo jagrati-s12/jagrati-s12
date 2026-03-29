@@ -51,10 +51,10 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 🧠 LeetCode Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrati-s12&theme=tokyo-night"/>
+  <img src="https://leetcard.jacoblin.cool/jag_281?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 
