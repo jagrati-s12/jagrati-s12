@@ -40,14 +40,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,vscode,intellij" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=jagrati-s12&theme=radical" height="180"/>
-</p>
 
 ---
 
