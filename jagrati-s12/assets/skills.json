@@ -1,0 +1,34 @@
+{
+  "title": "Jagrati's Skill Radar",
+  "_comment": "Self-rated learning/proficiency levels (0-100); adjust to your own confidence.",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 70
+    },
+    {
+      "label": "Python",
+      "value": 72
+    },
+    {
+      "label": "JavaScript",
+      "value": 68
+    },
+    {
+      "label": "React",
+      "value": 65
+    },
+    {
+      "label": "Backend APIs",
+      "value": 58
+    },
+    {
+      "label": "Machine Learning",
+      "value": 55
+    },
+    {
+      "label": "DSA",
+      "value": 70
+    }
+  ]
+}

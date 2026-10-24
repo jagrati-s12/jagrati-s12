@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured projects. Confirm repository names and URLs before publishing; the workflow uses repo names below to fetch live metadata.",
+  "projects": [
+    {
+      "repo": "StudyLib",
+      "description": "Personal study workspace for organizing notes, documents, and study sessions."
+    },
+    {
+      "repo": "LearnMate",
+      "description": "Learning platform project exploring AI-assisted learning experiences."
+    },
+    {
+      "repo": "skilloutcome",
+      "description": "Skills and training outcomes project focused on learning and placement insights."
+    },
+    {
+      "repo": "Explainable-Diabetes-Risk-Prediction",
+      "description": "Explainable machine learning for clinical diabetes risk prediction."
+    }
+  ]
+}
