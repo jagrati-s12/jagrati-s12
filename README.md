@@ -142,7 +142,7 @@ Hi, I'm **Jagrati Sharma**, a Computer Science Engineering student at **KIIT Uni
 </td>
 <td width="50%">
   <a href="https://github.com/jagrati-s12/LearnMate">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-LearnMate-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-LearnMate-light.svg"><img src="assets/card-LearnMate-dark.svg" width="420" alt="LearnMate project card"></picture>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-learnmate-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-learnmate-light.svg"><img src="assets/card-learnmate-dark.svg" width="420" alt="LearnMate project card"></picture>
   </a>
 </td>
 </tr>
