@@ -162,12 +162,12 @@ Hi, I'm **Jagrati Sharma**, a Computer Science Engineering student at **KIIT Uni
 
 <sub>
 
-| project | description | stack |
-|---|---|---|
-| **[StudyLib](https://github.com/jagrati-s12/StudyLib)** | Personal study workspace for notes and documents | `React` `Python` |
-| **[LearnMate](https://github.com/jagrati-s12/LearnMate)** | AI-assisted learning platform | `React` `JavaScript` `AI` |
-| **[SkillOutcome](https://github.com/jagrati-s12/skilloutcome)** | Skills and training outcomes project | `Web Development` |
-| **[Explainable Diabetes Risk Prediction](https://github.com/jagrati-s12/Explainable-Diabetes-Risk-Prediction)** | Explainable machine learning for clinical risk prediction | `Python` `XGBoost` `SHAP` |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[StudyLib](https://github.com/jagrati-s12/StudyLib)** | Personal study workspace for organizing notes, documents, and study sessions. | React, Python |
+| **[LearnMate](https://github.com/jagrati-s12/LearnMate)** | Learning platform project exploring AI-assisted learning experiences. | React, JavaScript, AI |
+| **[SkillOutcome](https://github.com/jagrati-s12/skilloutcome)** | Skills and training outcomes project focused on learning and placement insights. | Web Development |
+| **[Explainable Diabetes Risk Prediction](https://github.com/jagrati-s12/Explainable-Diabetes-Risk-Prediction)** | Explainable machine learning for clinical diabetes risk prediction. | Python, XGBoost, SHAP |
 
 </sub>
 
