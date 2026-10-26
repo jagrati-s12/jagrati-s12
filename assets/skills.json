@@ -1,0 +1,34 @@
+{
+  "title": "Jagrati's Skill Radar",
+  "_comment": "Starter self-ratings; adjust these values in your own repo to reflect your actual proficiency. Values are 0-100.",
+  "axes": [
+    {
+      "label": "Java",
+      "value": 72
+    },
+    {
+      "label": "Python",
+      "value": 78
+    },
+    {
+      "label": "JavaScript",
+      "value": 70
+    },
+    {
+      "label": "React",
+      "value": 68
+    },
+    {
+      "label": "ML / AI",
+      "value": 65
+    },
+    {
+      "label": "SQL",
+      "value": 62
+    },
+    {
+      "label": "DSA",
+      "value": 75
+    }
+  ]
+}
