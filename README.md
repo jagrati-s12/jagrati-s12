@@ -82,28 +82,15 @@ Hi, I'm **Jagrati Sharma**, a Computer Science Engineering student at **KIIT Uni
 
 <div align="center">
 
-## `~/` contribution calendar
 
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-<img
-  src="assets/metrics.isocalendar.svg"
-  width="90%"
-  alt="3D isometric contribution calendar"
->
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagrati-s12/jagrati-s12/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagrati-s12/jagrati-s12/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/jagrati-s12/jagrati-s12/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
-</div>
-
----
 
 <div align="center">
+
+## `~/` contribution calendar
+
+![3D isometric GitHub contribution calendar](./assets/metrics.isocalendar.svg)
+
+</div>
 
 ## `~/` the numbers
 
