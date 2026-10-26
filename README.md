@@ -115,7 +115,7 @@ Hi, I'm **Jagrati Sharma**, a Computer Science Engineering student at **KIIT Uni
 
 <br><br><br>
 
-<img src="assets/metrics.habits.svg" width="90%" alt="Coding habits and activity metrics">
+
 
 <br><br>
 
